@@ -7,7 +7,7 @@ I'm a education enthusiast and a technology lover. I'm a _cadet_ (software engin
 I have a variety of interests:
 
 * 🌎  languages (PT 🇧🇷, EN 🇺🇸 , FR 🇫🇷, ITA 🇮🇹, RUS 🇷🇺)
-* 🧳  Traveling (10 countries)
+* ✈️  Traveling
 * 🎸  Bass
 * 📕  Books
 * 🏎️  Karting
