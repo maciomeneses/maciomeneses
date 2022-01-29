@@ -2,7 +2,7 @@
 
 ### Thanks for visiting! 😄
 
-I'm a education enthusiast and a technology lover. I'm a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨ and a computer engineering student at [Federal University of Pernambuco (UFPE)](https://www3.cin.ufpe.br/en/). I'm currently working as a **software developer intern** at [Invillia](https://invillia.com/global-growth-framework/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/).
+I'm a education enthusiast and a technology lover. I'm a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨ and a computer engineering student at [Federal University of Pernambuco (UFPE)](https://www3.cin.ufpe.br/en/). I'm currently working as a **Backend Developer** at [Invillia](https://invillia.com/global-growth-framework/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/).
 
 I have a variety of interests:
 
