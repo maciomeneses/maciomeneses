@@ -6,7 +6,7 @@ I'm a education enthusiast and a technology lover. I'm a computer engineering st
 
 I have a variety of interests:
 
-* 🌎  languages (PT 🇧🇷, EN 🇺🇸 , FR 🇫🇷🇺)
+* 🌎  languages (PT 🇧🇷, EN 🇺🇸 , FR 🇫🇷)
 * ✈️  Traveling
 * 🎸  Bass
 * 📕  Books
