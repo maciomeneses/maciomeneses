@@ -27,17 +27,3 @@ I have a variety of interests:
 </p>
 
 ---
-
-<div>
-  <a href="https://github.com/maciomeneses">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maciomeneses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciomeneses&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<p align="center">
-	<img alt="maciomeneses's visitors" src="https://komarev.com/ghpvc/?username=maciomeneses&color=8c36db&style=flat&label=visitors" />
-	<img alt="maciomeneses's followers" src="https://img.shields.io/github/followers/maciomeneses?color=blueviolet" />
-	<img alt="maciomeneses's stars" src="https://img.shields.io/github/stars/maciomeneses?color=blueviolet" />
-</p>
-
----
