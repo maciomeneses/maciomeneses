@@ -2,7 +2,7 @@
 
 ### Thanks for visiting! 😄
 
-I'm a education enthusiast and a technology lover. I'm a computer engineering student at [Federal University of Pernambuco (UFPE)](https://www3.cin.ufpe.br/en/). I'm currently working as a **Backend Developer** at [Invillia](https://invillia.com/global-growth-framework/)/[PagSeguro](https://pagseguro.uol.com.br/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/).
+I'm a education enthusiast and a technology lover. I'm a computer engineering student at [Federal University of Pernambuco (UFPE)](https://www3.cin.ufpe.br/en/). I'm currently working as a **Software Engineer** at [Invillia](https://invillia.com/global-growth-framework/)/[PagSeguro](https://pagseguro.uol.com.br/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/).
 
 <br/>
   
