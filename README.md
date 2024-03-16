@@ -2,7 +2,7 @@
 
 ### Thanks for visiting!
 
-I'm a education enthusiast and a technology lover. I'm currently working as a **Software Engineer** at [Invillia](https://invillia.com/global-growth-framework/)/[PagSeguro](https://pagseguro.uol.com.br/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/).
+I'm currently working as a **Software Engineer** at [Invillia](https://invillia.com/global-growth-framework/)/[PagSeguro](https://pagseguro.uol.com.br/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/). Feel free to contact.
 
 <br/>
   
