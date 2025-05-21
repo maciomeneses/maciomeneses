@@ -2,13 +2,13 @@
 
 ### Thanks for visiting
 
-I'm currently working as a **Software Engineer** at [Invillia](https://invillia.com/global-growth-framework/)/[PagSeguro](https://pagseguro.uol.com.br/) and as a **mathematics book reviewer** at [GGE](https://gge.com.br/web/). Feel free to contact.
+I'm currently working as a **Software Engineer** at [Zup](https://zupinnovation.com/)/[Claro](https://flex.claro.com.br/). Feel free to contact.
 
 <br/>
   
 <p align="center">
-	<a href="mailto:mamontei@student.42sp.org.br">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mamontei@student.42sp.org.br" />
+	<a href="mailto:contact@mmeneses.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@mmeneses.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.goodreads.com/user/show/68025860-m-cio-meneses">
