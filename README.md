@@ -2,7 +2,7 @@
 
 ### Thanks for visiting
 
-I'm currently working as a **Software Engineer** at [Zup](https://zupinnovation.com/)/[Claro](https://flex.claro.com.br/). Feel free to contact.
+I'm a **Software Engineer**. Feel free to contact.
 
 <br/>
   
