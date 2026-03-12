@@ -1,4 +1,4 @@
-# Olá, eu sou o Márcio Meneses! 👋
+# Olá, eu sou o Mácio Meneses! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maciomeneses&label=Profile%20views&color=0e75b6&style=flat" alt="maciomeneses" />
