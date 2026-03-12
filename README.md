@@ -1,56 +1,45 @@
-# Olá, eu sou o Mácio Meneses! 👋
+# Mácio Meneses
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maciomeneses&label=Profile%20views&color=0e75b6&style=flat" alt="maciomeneses" />
-</p>
+**Software Engineer** specializing in Backend, Security, and Cloud Architecture.
 
 ---
 
-### 🚀 Sobre mim
+### 💼 Professional Overview
 
-Sou um **Engenheiro de Software** apaixonado por transformar problemas complexos em soluções elegantes e eficientes. Acredito no poder do código limpo e no aprendizado contínuo.
+I am a Software Engineer currently focused on building scalable and secure systems. With a solid academic foundation from **CIn-UFPE**, I apply engineering best practices to solve complex business challenges.
 
-- 🔭 Atualmente focado em arquiteturas escaláveis e performance.
-- 🌱 Sempre explorando novas tecnologias e aprimorando minhas habilidades.
-- 💬 Vamos conversar sobre desenvolvimento, boas práticas ou o próximo grande livro.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/maciomeneses/) | [E-mail](mailto:contact@mmeneses.com)
+- **Current Focus:** Backend Development, Software Architecture, and Security.
+- **Experience:** Designing and implementing robust microservices and cloud-native solutions.
+- **Education:** B.S. in Computer Science at **Centro de Informática - UFPE**.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Technical Stack
+
+- **Languages:** Java, Kotlin, TypeScript, JavaScript, Python.
+- **Frameworks & Libs:** Spring Boot, Node.js, React.
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD.
+- **Tools & Methodologies:** Git, Clean Architecture, SOLID, TDD.
+
+---
+
+### 📊 Professional Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maciomeneses&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciomeneses&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📬 Contact & Links
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maciomeneses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciomeneses&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📚 Além do Código
-
-Quando não estou codando, provavelmente estou lendo. 
-
-<p align="left">
-  <a href="https://www.goodreads.com/user/show/68025860-m-cio-meneses">
-    <img alt="Goodreads" src="https://img.shields.io/badge/Meu_Goodreads-FFD700?style=for-the-badge&logo=goodreads&logoColor=black" />
-  </a>
-</p>
+- **LinkedIn:** [linkedin.com/in/maciomeneses](https://www.linkedin.com/in/maciomeneses/)
+- **Email:** [contact@mmeneses.com](mailto:contact@mmeneses.com)
+- **Reading List:** [Goodreads](https://www.goodreads.com/user/show/68025860-m-cio-meneses)
 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Simplicity is the soul of efficiency." – Austin Freeman</i>
 </p>
