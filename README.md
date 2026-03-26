@@ -10,7 +10,6 @@ I am a Software Engineer currently focused on building scalable and secure syste
 
 - **Current Focus:** Backend Development, Software Architecture, and Security.
 - **Experience:** Designing and implementing robust microservices and cloud-native solutions.
-- **Education:** B.S. in Computer Science at **Centro de Informática - UFPE**.
 
 ---
 
