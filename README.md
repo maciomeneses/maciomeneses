@@ -34,7 +34,6 @@ I am a Software Engineer currently focused on building scalable and secure syste
 ### 📬 Contact & Links
 
 - **Email:** [contact@mmeneses.com](mailto:contact@mmeneses.com)
-- **Reading List:** [Goodreads](https://www.goodreads.com/user/show/68025860-m-cio-meneses)
 
 ---
 
